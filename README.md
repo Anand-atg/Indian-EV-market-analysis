@@ -1,4 +1,4 @@
-# 🇮🇳 Indian EV Market Analysis – Power BI Report
+# Indian EV Market Analysis – Power BI Report
 
 ## 📌 Overview
 This Power BI report provides **strategic insights** into the Electric Vehicle (EV) market in India.  
