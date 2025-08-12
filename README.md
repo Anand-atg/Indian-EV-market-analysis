@@ -67,9 +67,6 @@ Before building the dashboard, the dataset was cleaned and transformed:
 - **Excel** – Data cleaning & transformation
 - **ETL Concepts** – Extract, Transform, Load
 
----
 
-
-
-![Dashboard Screenshot 1](screenshots/dashboard_overview.png)  
-![Dashboard Screenshot 2](screenshots/dashboard_insights.png)  
+## Conclusion
+This Power BI analysis offers comprehensive insights into the Indian EV market, covering essential metrics for understanding growth, competition, and regional demand. It serves as a valuable resource for automotive companies, investors, and policymakers to evaluate and strategize for the Indian EV landscape. 
